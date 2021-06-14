@@ -10,6 +10,8 @@ Applied Knapsack algorithm for implementation of Greedy based technique where we
 # Time complexity:  O(n²)
 
 
+# The main code is written in C++in [solution.cpp](https://github.com/REEKRAJROY/Summer-of-Bitcoin/blob/main/solution.cpp) file and the output block generated in [block.txt](https://github.com/REEKRAJROY/Summer-of-Bitcoin/blob/main/block.txt)
+
 # Output:
 
 
