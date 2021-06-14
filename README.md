@@ -15,11 +15,11 @@ Applied Knapsack algorithm for implementation of Greedy based technique where we
 # Output:
 
 
-Total number of transactions read: 5214
-Number of tx in final block 3174
-Total fee in curr block : 5696031
-Total weight : 3.99994e+06
-Percentage of weight: 99.9984 %
+Total number of transactions read: 5214 <br>
+Number of tx in final block 3174 <br>
+Total fee in curr block : 5696031 <br>
+Total weight : 3.99994e+06 <br>
+Percentage of weight: 99.9984 % <br>
 
 # References:
 [Geeks For Geeks Fractional Knapsack Problem](https://www.geeksforgeeks.org/fractional-knapsack-problem/#:~:text=The%20basic%20idea%20of%20the,as%20much%20as%20we%20can)
