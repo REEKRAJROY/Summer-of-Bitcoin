@@ -21,6 +21,12 @@ Total fee in curr block : 5696031 <br>
 Total weight : 3.99994e+06 <br>
 Percentage of weight: 99.9984 % <br>
 
+# Screenshot of output:
+
+
+![Screenshot from 2021-06-14 22-00-41](https://user-images.githubusercontent.com/55712612/121926891-105abf00-cd5c-11eb-8bbf-aac35894c8b6.png)
+
+
 # References:
 [Geeks For Geeks Fractional Knapsack Problem](https://www.geeksforgeeks.org/fractional-knapsack-problem/#:~:text=The%20basic%20idea%20of%20the,as%20much%20as%20we%20can)
 
