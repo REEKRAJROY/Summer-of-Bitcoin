@@ -1,2 +1,2 @@
-# Summer-of-Bitcoin
-Task 1 for Summer of Bitcoin Code Challenge.
+# summerofbitcoin_challenge
+Summer of Bitcoin challenge task 1.
